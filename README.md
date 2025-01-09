@@ -1,4 +1,4 @@
-<h4 align="left">Hi there👋!<br> My name is  Marina <br> I'm a passionate software developer from Japan.</h4>
+<h4 align="left">Hi there👋!<br> My name is Marina <br> I'm a passionate software developer from Japan.</h4>
 
 ###
 
@@ -51,5 +51,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h4 align="left">📊 My LeetCode Stats</h4>
+
+<div align="left">
+  <img src="https://leetcode-stats-api.herokuapp.com/marinainsur" alt="LeetCode Stats" />
+</div>
+
 
 
